@@ -1,0 +1,51 @@
+li{
+    list-style-type: none;
+    padding: 30px 0px 54px 30px;
+    writing-mode:vertical-lr;
+    transform: rotate(180deg);
+    color: antiquewhite;
+    font-size:small;
+    text-align: center;
+}
+ul{
+    margin: 0px;
+}
+header{
+    background-color: black;
+    display: inline-block;
+    margin: 0px;
+}
+body{
+    margin: 0px;
+    display: flex;
+    background-image: url(./blue-white-waterfall-photography_2173-t.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+h1{
+    display: inline-block;
+    padding: 0px 0px 0px 650px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    font-style: italic;
+}
+a:hover{
+    background-color:rebeccapurple ;
+}
+a:active{
+    color: red;
+}
+h3{
+    display: inline-block;
+    padding: 20px 0px 0px 350px;
+}
+h2{
+    padding-top: 350px;
+    margin-left: -750px;
+}
+h4{
+    padding-top: 410px;
+    margin-left: -400px;
+}
+
+
